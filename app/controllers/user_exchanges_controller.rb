@@ -1,0 +1,2 @@
+class UserExchangesController < ApplicationController
+end
